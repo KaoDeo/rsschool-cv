@@ -60,3 +60,5 @@ I don't have working experience in this field but I have worked on personal proj
 
 **English - C1**
 I took C1 class at the university. At this time I study Business English. In my previous job I had daily communication with company's business partners and work on different B2B projects in which I only used English.
+
+**Russian B2**
