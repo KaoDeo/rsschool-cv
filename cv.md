@@ -33,7 +33,7 @@ I am junior web developer striving for getting experience on working real projec
 
 `function flipCard (){`
 `var cardId = this.getAttribute('data-id')`
-` cardsChosen.push(cardArray[cardId].name) //we will push cards from cardArray based on their card-id`
+` cardsChosen.push(cardArray[cardId].name)`
 `cardsChosenId.push(cardId)`
 ` this.setAttribute('src', cardArray[cardId].img) //we add an image to the card based on its ID if(cardsChosen.length === 2){`
 `setTimeout(checkForMatch, 500) // wehen we choose only 2 cards, checkForMatch runs for 500ms`
