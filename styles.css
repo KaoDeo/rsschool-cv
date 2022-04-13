@@ -52,7 +52,11 @@ nav{
     align-content: space-between;
     gap: 35px;
 }
-
+.nav-list{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
 .main{
     font-size: 30px;
     font-weight: 700;
@@ -143,3 +147,15 @@ footer{
 
 }
 
+.recent-projects{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+.projects-list{
+    margin-top: 20px;
+    font-size: 20px;
+}
